@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+saved_memory_model/
+*.csv
+*.safetensors
+*.bin
+test_model.py
+hello.ipynb
+.vscode/
